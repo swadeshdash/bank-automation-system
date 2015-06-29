@@ -1,2 +1,1 @@
-# bank-automation-system
-Bank Automation Sysytem
+# Bank Automation System
